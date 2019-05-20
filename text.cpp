@@ -1,0 +1,4 @@
+void textfunction()
+{
+	printf("testtext");
+}
